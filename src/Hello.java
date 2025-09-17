@@ -3,5 +3,6 @@ public class Hello {
 	
 	public static void run() {
 		System.out.println("202114037");
+		System.out.println("hello world");
 	}
 }
